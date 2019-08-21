@@ -23,7 +23,8 @@
 		<spring.version>5.0.2.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.log>ba06011b37833cc91891a8ce0e26b65e29b5eeec</sonar.log>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>chinnari</sonar.password>
 		<sonar.host.url>http://13.234.119.48:9000</sonar.host.url>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
