@@ -25,7 +25,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>chinnari</sonar.password>
-		<sonar.host.url>http://13.126.199.194:9000</sonar.host.url>
+		<sonar.host.url>http://13.233.198.158:9000</sonar.host.url>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -91,14 +91,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	   <url>http://13.232.139.161:8081/repository/maven-releases/</url>
+	   <url>http://13.126.99.157:8081/repository/maven-releases/</url>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	   
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.139.161:8081/repository/maven-snapshots/</url>
+	      <url>http://13.126.99.157:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
